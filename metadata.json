@@ -1,0 +1,8 @@
+{
+  "name": "TaskLock — Focus Until Done",
+  "description": "Professional productivity and accountability app with deadline scheduling, strict reminders, overdue escalation, and calendar planning.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
